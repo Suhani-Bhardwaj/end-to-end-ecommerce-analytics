@@ -127,20 +127,20 @@ This dashboard enables business stakeholders to quickly understand performance a
 
 end-to-end-ecommerce-analytics/
 
-│
+
 ├── data/
-│   ├── cleaned_retail_data.csv
-│   └── rfm_customer_segments.csv
-│
+   ├── cleaned_retail_data.csv
+   └── rfm_customer_segments.csv
+
 ├── notebook/
-│   └── ecommerce_analysis.ipynb
-│
+   └── ecommerce_analysis.ipynb
+
 ├── dashboard/
-│   └── ecommerce_dashboard.pbix
-│
+   └── ecommerce_dashboard.pbix
+
 ├── screenshots/
-│   └── sales-dashboard.png
-│
+   └── sales-dashboard.png
+
 └── README.md
 
 ## 💡 Key Insights
