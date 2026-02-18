@@ -159,7 +159,7 @@ This project demonstrates how data analytics can help businesses:
 - Improve customer retention strategies
 - Optimize marketing campaigns
 - Increase revenue through data-driven decisions
-- 
+
 ## 🧠 Skills Demonstrated
 
 - Data Cleaning
