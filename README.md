@@ -113,6 +113,7 @@ rfm_customer_segments.csv
 
 ## 📈 Power BI Dashboard
 
+![Sales Dashboard](sales-dashboard.png)
 An interactive dashboard was created showing:
 
 - Total Revenue (KPI Card)
